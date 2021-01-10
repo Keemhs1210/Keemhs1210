@@ -1,11 +1,5 @@
 ###  Introduce My Self 👋
 
-<!--
-**Keemhs1210/Keemhs1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
 * Name: Kim Hyunsoo
 * University: Korea Poloytechnic University
 * Major: Electronics Engineering
@@ -15,4 +9,10 @@ Here are some ideas to get you started:
 * SW langauge: C/C++, Python, VHDL
 * SW Tool: Mathlab, Orcad
 * contact: kimhs1210@gmail.com
+
+<!--
+**Keemhs1210/Keemhs1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 -->
