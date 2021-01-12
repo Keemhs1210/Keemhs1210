@@ -8,7 +8,7 @@
 * Field of Interesting: AI, Robotics, Self-Driving, IoT
 * SW langauge: C/C++, Python, VHDL
 * SW Tool: Mathlab, Orcad
-* contact: kimhs1210@gmail.com
+* Contact: kimhs1210@gmail.com
 
 <!--
 **Keemhs1210/Keemhs1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
